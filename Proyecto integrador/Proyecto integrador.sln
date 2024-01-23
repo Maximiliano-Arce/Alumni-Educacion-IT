@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto integrador", "Proyecto integrador\Proyecto integrador.csproj", "{BA250E51-3309-43ED-8090-F030F376EB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{7C8EB2E4-1683-49DA-A536-62CFD96AD39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA250E51-3309-43ED-8090-F030F376EB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA250E51-3309-43ED-8090-F030F376EB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA250E51-3309-43ED-8090-F030F376EB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA250E51-3309-43ED-8090-F030F376EB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8EB2E4-1683-49DA-A536-62CFD96AD39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8EB2E4-1683-49DA-A536-62CFD96AD39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8EB2E4-1683-49DA-A536-62CFD96AD39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8EB2E4-1683-49DA-A536-62CFD96AD39F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA272A2-745F-411F-96B8-9D1F87926EB1}
+	EndGlobalSection
+EndGlobal
